@@ -1,6 +1,6 @@
-# cunamas
+# POKEDEX
 
-> encuesta inei
+> Practicando vuejs
 
 ## Build Setup
 
